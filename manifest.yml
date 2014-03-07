@@ -1,0 +1,8 @@
+---
+applications:
+- name: anynines-martini
+  memory: 128M
+  instances: 1
+  host: anynines-martini
+  domain: de.a9sapp.eu
+  path: .
