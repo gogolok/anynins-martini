@@ -13,5 +13,5 @@ cf login
 ```
 
 ```
-cf push --name APPNAME --buildpack https://github.com/michaljemala/cloudfoundry-buildpack-go.git
+cf push --name APPNAME --buildpack https://github.com/gogolok/cloudfoundry-buildpack-go.git
 ```
